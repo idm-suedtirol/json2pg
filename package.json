@@ -1,0 +1,10 @@
+{
+  "name": "import-raven.js",
+  "version": "1.0.0",
+  "description": "read an uncompressed RavenDB dump file into a Postgres table",
+  "dependencies": {
+    "JSONStream": "1",
+    "event-stream": "3",
+    "pg-native": "1"
+  }
+}
